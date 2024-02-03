@@ -2,3 +2,6 @@
 /datasets
 vs/
 .vscode
+predictions/test
+img/images_Q
+__pycache__/

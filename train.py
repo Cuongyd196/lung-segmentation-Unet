@@ -104,7 +104,7 @@ if __name__ == "__main__":
     """ Hyperparameters """
     batch_size = 2
     lr = 1e-5
-    num_epochs = 10
+    num_epochs = 50
     model_path = os.path.join("files", "model.h5")
     csv_path = os.path.join("files", "data.csv")
 
